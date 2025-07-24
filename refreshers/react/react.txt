@@ -1,0 +1,5 @@
+What is react?
+    - javascript library/framework that helps us build user interfaces
+    - does not run on a server or communicate with databases
+
+note: not creating another react app inside of here
